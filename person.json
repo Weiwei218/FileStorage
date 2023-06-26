@@ -1,0 +1,15 @@
+{
+    "firstname": "Wei",
+    "gender":true,
+    "height":168,
+    "email":"ameru@gmail.com",
+    "city":{
+        "通訊地址":"台北",
+        "戶籍地址":"桃園"
+    },
+    "phone":{
+        "市話":"2793",
+        "行動電話":"0933"
+    },
+    "cars":["BMW"]
+}
