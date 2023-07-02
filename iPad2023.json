@@ -1,0 +1,22 @@
+[
+    { "id": "A001", "color": "太空灰色", "price": 18900, "storage": "64GB", "network": "Wi-Fi", "picture": "gray.png" },
+    { "id": "A002", "color": "藍色", "price": 18900, "storage": "64GB", "network": "Wi-Fi", "picture": "blue.png" },
+    { "id": "A003", "color": "粉紅色", "price": 18900, "storage": "64GB", "network": "Wi-Fi", "picture": "pink.png" },
+    { "id": "A004", "color": "紫色", "price": 18900, "storage": "64GB", "network": "Wi-Fi", "picture": "purple.png" },
+    { "id": "A005", "color": "星光色", "price": 18900, "storage": "64GB", "network": "Wi-Fi", "picture": "starlight.png" },
+    { "id": "B001", "color": "太空灰色", "price": 23900, "storage": "256GB", "network": "Wi-Fi", "picture": "gray.png" },
+    { "id": "B002", "color": "藍色", "price": 23900, "storage": "256GB", "network": "Wi-Fi", "picture": "blue.png" },
+    { "id": "B003", "color": "粉紅色", "price": 23900, "storage": "256GB", "network": "Wi-Fi", "picture": "pink.png" },
+    { "id": "B004", "color": "紫色", "price": 23900, "storage": "256GB", "network": "Wi-Fi", "picture": "purple.png" },
+    { "id": "B005", "color": "星光色", "price": 23900, "storage": "256GB", "network": "Wi-Fi", "picture": "starlight.png" },
+    { "id": "C001", "color": "太空灰色", "price": 23200, "storage": "64GB", "network": "Cellular", "picture": "gray.png" },
+    { "id": "C002", "color": "藍色", "price": 23200, "storage": "64GB", "network": "Cellular", "picture": "blue.png" },
+    { "id": "C003", "color": "粉紅色", "price": 23200, "storage": "64GB", "network": "Cellular", "picture": "pink.png" },
+    { "id": "C004", "color": "紫色", "price": 23200, "storage": "64GB", "network": "Cellular", "picture": "purple.png" },
+    { "id": "C005", "color": "星光色", "price": 23200, "storage": "64GB", "network": "Cellular", "picture": "starlight.png" },
+    { "id": "D001", "color": "太空灰色", "price": 28200, "storage": "256GB", "network": "Cellular", "picture": "gray.png" },
+    { "id": "D002", "color": "藍色", "price": 28200, "storage": "256GB", "network": "Cellular", "picture": "blue.png" },
+    { "id": "D003", "color": "粉紅色", "price": 28200, "storage": "256GB", "network": "Cellular", "picture": "pink.png" },
+    { "id": "D004", "color": "紫色", "price": 28200, "storage": "256GB", "network": "Cellular", "picture": "purple.png" },
+    { "id": "D005", "color": "星光色", "price": 28200, "storage": "256GB", "network": "Cellular", "picture": "starlight.png" }
+]
